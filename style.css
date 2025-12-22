@@ -1,3 +1,51 @@
+body {
+  font-family: "Young Serif", Helvetica, sans-serif;
+  background-color: hsl(30, 54%, 90%);
+}
+
+h2 {
+  color: hsl(14, 45%, 36%);
+}
+
+li {
+  font-size: 16px;
+  font-weight: 400;
+  color: hsl(30, 10%, 34%);
+}
+
+.main_container {
+  border-radius: 20px;
+  width: 560px;
+  background-color: hsl(0, 0%, 100%);
+  padding: 25px;
+}
+
+.recipe_name {
+  font-family: Outfit;
+  font-weight: 700;
+}
+
+.recipe_name img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.recipe_about {
+  font-size: 16px;
+  font-weight: 400;
+  color: hsl(30, 10%, 34%);
+}
+
+.prep_time {
+  background-color: hsl(330, 100%, 98%);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.prep_time h2 {
+  color: hsl(332, 51%, 32%);
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
